@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://punktlandung.aargauerzeitung.ch/sitemap.xml
